@@ -16,8 +16,8 @@ void mySwap(T& num1, T& num2) {
 
 
 int main() {
-
-	/*try {
+	/*프레임입니다
+	try {
 		Frame *f1 = new Frame;
 		Frame *f2 = new Frame[10];
 
